@@ -1,0 +1,1 @@
+UPDATE customer SET SID = 10 WHERE First_Name = Bob;
